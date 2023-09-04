@@ -1,0 +1,55 @@
+1. dotnet nima
+2. dotnetni nechta componentasi bor va ularning vazifasi nimadan iborat.
+3. Jit Compilyator ning vazifasi nima 
+4. Source Code va Machine Code ni nima farqi bor
+5. Manage code qanday code.
+6. UnManage code qanday code.
+7. Manage code va UnManage codening farqi nimada
+8. Qaysi dasturlash tilida yozilgan codelar UnManage codelar hisoblanadi for example: 3 ta
+9. .NET Framework, .NET Core, .NET Standart va .NET 5/6/7/8 lar nimasi bilan farq qiladi
+10. Int bilan Int32/Int64 larning farqi nimada
+11. Sreing bilan string ning farqi  nima (bittasi katta harfda yozilgan ikkinchisi kichikda)
+12. decimal va double ning farqi nimada
+13. var, dynamic va object farqi  nima
+14. value type bilan reference type ni farqi nimada
+15. ref bilan out ni farqi nimada
+16. Class va Structurani farqi qanday
+17. this va base kalit so'zlarining farqi nimada
+18. access modificatorlar haqida yozing: public/private/protected/internal/protected internal/private protected
+19. constructor nima
+20. destructor nima va u qanday foydalaniladi
+21. OOP tamoyillari(ustnlari haqida yozing)
+22. String va StringBuilder ni farqi nimada
+23. Mutable va UnMutable nima degani.
+24. ArrayList va LinkedList ning qanday farqi bor
+25. Dictionary va HashTable ning qanday farqi bor
+26. Stack va Queue farqi nima
+27. Delegateni qanday maqsadda ishlatamiz
+28. Func delegati bilan Predicate ni farqi nimada
+29. MemoryStream haqida bilganlarizni yozing
+30. Sinxron va Asinxron programming haqida yozing
+30.01 => Interface bilan Classni nima farqi bor
+30.02 => Abstract Class bilan Interface ni farqi nimada
+31. LINQ nima?
+32. IEnumerable va IQuerable farqi nimada
+33. Select va SelectMany farqi
+34. OfType qanday ishlaydi
+35. LINQ da Distinct va Intersect haqida yozing.
+
+36. List<int> sonlar = new List<int>() { 2, 2, 5, 4, 5, 6, 7, 8, 5, 10 };  Array berilgan shundan LINQ orqali faqat 5 ga teng bo'gan qiymatlani aniqlang. Code yozing.
+
+37. Skip va SkipWhile haqida yozilar
+38. Inner, Left va Right Join farqlari 
+39. First and FirstOrDefault farqi nimada
+40. Lazy Loading, Eager Loading, and Explicit Loading haqida yozing
+41. Relatsional va NoRelatsional database larni farqi nimada
+
+PostgreSQL ga oid savollar
+
+42. Qanday qilib DataBase yaratamiz 
+43. Qanday qilib table yaratamiz
+44. Qanday qilib tableni o'chiramiz
+45. Delete methodisiz tabledagi ma'lumotlarni o'chirish mumkinmi
+46. DROP TABLE nima ish qiladi
+47. SQL va PostgreSQL ning farqi nimada
+48. Order BY [ASC va DESC] nima farqi bor
