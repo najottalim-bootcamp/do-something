@@ -53,3 +53,4 @@ PostgreSQL ga oid savollar
 46. DROP TABLE nima ish qiladi
 47. SQL va PostgreSQL ning farqi nimada
 48. Order BY [ASC va DESC] nima farqi bor
+49. Trigger nima
